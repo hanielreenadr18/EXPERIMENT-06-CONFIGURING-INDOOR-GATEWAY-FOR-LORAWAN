@@ -1,4 +1,8 @@
-# EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
+# EXPERIMENT 06 CONFIGURING INDOOR GATEWAY FOR LORAWAN
+
+### NAME: HANIEL REENA D R
+### REG NO: 2305001008
+### DEPT: CSE
 
 ## Aim: 
 
@@ -119,7 +123,10 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 ## OUTPUT 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fcc48c8e-38e1-4ab9-b84d-f5eed4cd3554" />
 
+
+<img width="960" height="1280" alt="WhatsApp Image 2026-10-13 at 11 36 28 AM" src="https://github.com/user-attachments/assets/f8c006e3-e0dd-45af-83d4-0027ccd0a587" />
 
 
 
